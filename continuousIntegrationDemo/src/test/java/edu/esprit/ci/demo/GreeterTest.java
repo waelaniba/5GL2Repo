@@ -24,7 +24,7 @@ public class GreeterTest {
 	@Test
 	public void test1(){
 		
-		assertEquals("GoodBye Ghassen ", greeter.sayGoodBye("Ghassen"));
+		assertEquals("GoodBye aaaaaaaaaa", greeter.sayGoodBye("Ghassenn"));
 		
 	}
 
